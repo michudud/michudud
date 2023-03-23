@@ -1,5 +1,6 @@
 # About Me
-Hi I'm Michael and I'm currently developing my software skills and looking for job opportunities as Front-end developer.
+Hi, I'm Michael.<br/>
+I'm currently developing my software skills and looking for job opportunities as Front-end developer.
 
 # Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
